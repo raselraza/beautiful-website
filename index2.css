@@ -1,0 +1,72 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin:0;
+  }
+  h1{
+    font-size: 50px;
+  }
+  .half-width{
+    width: 40%;
+    float: left;
+   margin-left: 5%; 
+   padding-left: 2%;
+  }
+  .pk{
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+  }
+  .jack{
+    color:orange
+  }
+  .half-width img{
+    width: 100%;
+  }
+  
+  .max{
+    width: 40%;
+    float: right;
+   margin-left: 5%; 
+   padding-top: 15%;
+  }
+  .linx img{ width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+  } 
+  .happy{
+    text-align: center;
+color: blueviolet;
+  }
+  .hin img{
+
+height: 350px;
+width:500px ;
+
+  }
+  .prt{
+    text-align: center;
+  }
+  .ty{
+    text-align: center;
+    padding: 10px;
+  }
+  .fy{
+    text-align: center;
+padding: 2px;
+  }
+  .ru{
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+   padding-top: 2%;
+    background-color: rgb(175, 154, 96);
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 2%;
+  border-radius: 10px;
+  }
+  
